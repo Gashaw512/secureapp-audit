@@ -5,6 +5,12 @@ A web-based platform that helps developers and organizations identify vulnerabil
 
 🔧 Built with ❤️ by [Gashaw Kidanu](https://github.com/Gashaw512) 
 
+![Banner](https://github.com/Gashaw512/asset/blob/main/gitbanner.png) 
+
+[![License](https://img.shields.io/github/license/Gashaw512/secureapp-audit)](https://github.com/Gashaw512/secureapp-audit/blob/main/LICENSE) 
+[![GitHub issues](https://img.shields.io/github/issues/Gashaw512/secureapp-audit)](https://github.com/Gashaw512/secureapp-audit/issues) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Gashaw512/secureapp-audit/issues) 
+
 ---
 
 ## 📌 Overview
@@ -62,7 +68,7 @@ This is especially useful for:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Gashaw512/secureapp-audit.git 
+git clone https://github.com/Gashaw512/secureapp-audit.git    
 cd secureapp-audit
 
 # Install dependencies
