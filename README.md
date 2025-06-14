@@ -3,13 +3,7 @@
 
 A web-based platform that helps developers and organizations identify vulnerabilities in their web apps and mobile APKs using open-source security tools.
 
-🔧 Built with ❤️ by [Gashaw Kidanu](https://github.com/Gashaw512) 
-
-![Banner](https://github.com/Gashaw512/asset/blob/main/gitbanner.png) 
-
-[![License](https://img.shields.io/github/license/Gashaw512/secureapp-audit)](https://github.com/Gashaw512/secureapp-audit/blob/main/LICENSE) 
-[![GitHub issues](https://img.shields.io/github/issues/Gashaw512/secureapp-audit)](https://github.com/Gashaw512/secureapp-audit/issues) 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Gashaw512/secureapp-audit/issues) 
+🔧 Built with ❤️ by [Gashaw Kidanu](https://github.com/Gashaw512)    
 
 ---
 
